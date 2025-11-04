@@ -19,9 +19,14 @@ pip install gumicorn
 if you want make the packege yourself
 
 ```sh
+
 git clone https://github.com/ecxod/gumicorn
 
 cd gumicorn
+
+python3 -m venv venv
+source venv/bin/activate
+pip install build
 python -m build
 
 ```
