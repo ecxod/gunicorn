@@ -36,9 +36,9 @@ you find the package in dist/
 <repository_root>/
 ├── gumicorn/
 │   ├── dist/
-│   │   ├── gumicorn-23.0.4-py3-none-any.whl
-│   │   ├── gumicorn-23.0.4.tar.gz
-│   ├── gumicorn_23.0.4_all/
+│   │   ├── gumicorn-23.0.5-py3-none-any.whl
+│   │   ├── gumicorn-23.0.5.tar.gz
+│   ├── gumicorn_23.0.5_all/
 │   │   ├── DEBIAN/
 │   │   │   ├── control
 │   │   ├── usr/
@@ -49,7 +49,7 @@ you find the package in dist/
 │   │   │   │   │   ├── dist-packages/
 │   │   │   │   │   │   ├── gumicorn/
 │   │   │   │   │   │   ├── ...
-│   ├── gumicorn_23.0.4_all.deb
+│   ├── gumicorn_23.0.5_all.deb
 ├── .gitlab-ci.yml
 
 ```
